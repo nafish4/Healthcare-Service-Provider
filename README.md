@@ -7,12 +7,12 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-##Project Summary
+# Project Summary
 We have created a unique website where we have created a harmonious relationship between the three categories of Users: Administrator, Doctors and Patients.
 The website provides a medium for the patients to smartly interact with the Doctors which also have the symbiotics of Doctors interacting with the Patients as well. Our website provides the uniqueness that the patient can upload their respective medical reports, which can be accessed by the doctors on a need basis. Additionally, the website provides the opportunity to patients to be able to make appointments with the respective doctors. Patients will be able to know their appointment status via the website as well as get emailed about their appointment information by the Administrator. Afterwards, when the appointment has been successfully concluded, Doctors can upload the digital reports of the patient which can be viewed by the respective user who partook in the appointment. Through this, the patient will have their medical history archived in the website which can be accessed anytime by the Patients. This way, even if the hardcopy is lost, the data will remain intact in the database. They can download the report if they want. Users can know about the tests available and they can opt to take the tests and purchase them from the website. Upon successful transaction and checkout, they will receive a receipt in the form of email, ensuring that they have a digital receipt of the said transaction. Finally, since we care about the Patients who are our number one priority, we take feedback from our Patients and strive to always improve ourselves.
 
 
-##Featues
+# Featues
 1. User/Admin/Doctor login
 2. Patient register
 3. Forgot password
